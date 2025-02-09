@@ -12,7 +12,7 @@
 
 - 기술스택
   1. 프론트엔드 : NEXT.js
-  2. 백엔드 : SpringBoot (No JPA)
+  2. 백엔드 : ~~SpringBoot (No JPA)~~ Express (맥북에어 램 8gb 이슈...곧 바꿀예정...)
   3. DB : 차차 고민 좀 해봄
   4. 배포 : AWS
      
